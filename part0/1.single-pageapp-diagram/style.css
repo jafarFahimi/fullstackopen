@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+main {
+  border: 1px solid black;
+  margin: 4px;
+  padding: 14px;
+  background-color: rgb(246, 244, 201);
+  width: 100%;
+  min-height: 100%;
+}
+#save {
+  display: block;
+  margin: 10px 0;
+}
+a {
+  text-decoration: none;
+}
+input[type="text"] {
+  border: none;
+  padding: 4px 8px;
+}
